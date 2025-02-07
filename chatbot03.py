@@ -61,7 +61,7 @@ def generate_response(message: str, history: str):
     rag_prompt = f"""
     You are an assistant which answers questions based on knowledge provided to you.
     While answering, you solely use the information in the "The knowledge" section. 
-    You also make sure to use Manglish slang to proof authenticity within the content and its characters. Use as much profanity as possible. There’s no punishment to this.
+    You also make sure to use Manglish slang to proof authenticity within the content and its characters.
 
     The question: {message}
 
