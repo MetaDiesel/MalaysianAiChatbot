@@ -1,0 +1,10 @@
+langchain_community
+langchain_text_splitters
+langchain_openai
+langchain_chroma
+Gradio
+python-dotenv
+pypdf
+Chroma
+fastapi
+uvicorn
